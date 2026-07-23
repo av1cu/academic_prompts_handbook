@@ -1,0 +1,54 @@
+[
+    {
+        "path": "docs/templates/01_lesson_planning.md",
+        "name": "教学计划设计 / Сабақ жоспарын әзірлеу / Проектирование учебных планов (Scenario 1)"
+    },
+    {
+        "path": "docs/templates/02_assessments.md",
+        "name": "教学评估与测试 / Педагогикалық бағалау және тесттер / Педагогическое оценивание и тесты (Scenario 2)"
+    },
+    {
+        "path": "docs/templates/03_activities.md",
+        "name": "课堂互动与游戏化 / Сабақтағы белсенді әдістер мен ойындар / Классные интерактивы и учебные игры (Scenario 3)"
+    },
+    {
+        "path": "docs/templates/04_explanations.md",
+        "name": "难点学术概念解析 / Күрделі тақырыптарды түсіндіру / Объяснение сложных тем (Scenario 4)"
+    },
+    {
+        "path": "docs/templates/05_cultural_adaptation.md",
+        "name": "中亚中哈本土化教学改编 / Орталық Азия контексіне бейімделген сабақтар / Адаптация для Центральной Азии (Scenario 5)"
+    },
+    {
+        "path": "docs/templates/06_differentiated_instruction.md",
+        "name": "差异化教学与分层设计 / Дифференциалды оқыту және деңгейлік сабақтар / Дифференцированное обучение и адаптация уроков (Scenario 6)"
+    },
+    {
+        "path": "docs/templates/07_presentations.md",
+        "name": "课堂演示文稿设计 / Сабаққа арналған презентация дайындау / Разработка презентаций к уроку (Scenario 7)"
+    },
+    {
+        "path": "docs/templates/09_checking_student_work.md",
+        "name": "检查学生作业 / Оқушының жұмысын тексеру / Проверка работ ученика (Scenario 9)"
+    },
+    {
+        "path": "docs/templates/10_diagnostics.md",
+        "name": "学情诊断 / Оқу диагностикасы / Диагностика (Scenario 10)"
+    },
+    {
+        "path": "docs/templates/12_illustrations.md",
+        "name": "教学插图、示意图与信息图设计 / Оқу суреттері, схемалары мен инфографикасын жасау / Разработка иллюстраций, схем и инфографики для урока (Scenario 12)"
+    },
+    {
+        "path": "docs/templates/16_class_results_analysis.md",
+        "name": "班级成绩与学情分析 / Сынып нәтижелерін талдау / Анализ результатов класса (Scenario 16)"
+    },
+    {
+        "path": "docs/templates/мультиязыковая_инструкция.md",
+        "name": "创建课程教学大纲 / Силлабус құрастыру / Создание силлабуса"
+    },
+    {
+        "path": "docs/templates/мультиязыковая_инструкция_коммуникация_с_родителями.md",
+        "name": "与家长沟通 / Ата-аналармен байланыс / Коммуникация с родителями"
+    }
+]
